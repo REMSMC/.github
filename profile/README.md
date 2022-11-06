@@ -2,4 +2,4 @@
 ## Redstone Experimental Server
 ###### 大型红石技术向不知名生存服务器之一
 
-你可以去 [REMServer 官网](https://rems.vercel.app)查看更多
+你可以去 [REMServer 官网](https://rems.eu.org)查看更多。
